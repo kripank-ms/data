@@ -8,3 +8,9 @@ def sub(x,y):
 def mult(x,y):
     mul = x * y
     return mul
+def div(x,y):
+    d = y / x
+    return d
+def add(x,y):
+    ad = x + y
+    return ad
