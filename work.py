@@ -14,3 +14,5 @@ def div(x,y):
 def add(x,y):
     ad = x + y
     return ad
+def power(x,y):
+    return x ** y
